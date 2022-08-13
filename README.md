@@ -1,3 +1,2 @@
 # Skyblock Mod
-Welp adds enchantments for now :D
-aims to add custom ench table and all that
+We aim to add Hypixel Skyblock into singleplayer, or even a Multiplayer server that you can play with your friends.
